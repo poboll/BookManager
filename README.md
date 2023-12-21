@@ -1,4 +1,5 @@
 # BookManager
+<<<<<<< HEAD
 
 ## 下载
 ```
@@ -71,3 +72,6 @@ npm install
 
 <img src="./img/9.png" alt="img" style="zoom: 80%;" />
 
+=======
+基于Python和PyQt5的图书信息管理系统 \ 大作业
+>>>>>>> a4d3ee4cb874dcf2d4594b8a06535415e0ccb790
