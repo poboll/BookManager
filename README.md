@@ -1,9 +1,9 @@
 # BookManager
-基于Python和PyQt5的图书信息管理系统 \ 大作业
+基于Python和PyQt5的图书信息管理系统 / Python大作业
 
-## 下载
+## 下载Python依赖包
 ```
-npm install
+pip install -r requirements.txt
 ```
 
 ## 运行
